@@ -12,7 +12,6 @@ function mayuscula(nombre) {
    return nombre;
 }
 
-console.log(mayuscula('felipe'));
 
 function invocarCallback(cb) {
    // Invoca/ejecuta el callback `cb`.
